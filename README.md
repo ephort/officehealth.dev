@@ -16,6 +16,7 @@ If you have personal experiences that you think can help others, please create a
 * In between writing on the keyboard you are not relaxing your fingers. They instead stay prepared and tense to be prepared for the next words/code to be written. Remove your hands from the keyboard in all the small pauses or focus on relaxing them.
 * Your arms have been in the 90 degrees angle for too long (maybe many years), thus your shoulders and arms are tense. You might not feel it, but try letting your arms hang along your body and relax as much as possible in your arms and shoulders. You will soon get a feeling that you shoulders can be much more relaxed than they usually are. Make an effort every day to obtain a more relaxed position in your shoulders.
 * When you lie down to sleep at night make an effort to relax your arms, as they can probably obtain a more relaxed position here as well.
+* Using an integrated keyboard in your laptop may not be a good idea. The keys have "soft press" style causing your fingers to never be allowed to rest apon the keyboard in between typing. An old fashioned keyboard with hard keys makes it possible for your fingers to better rest apon the keys.
 
 ## Eyes
 
@@ -37,3 +38,15 @@ If you have personal experiences that you think can help others, please create a
 *Possible solutions*
 * You need to change working position. Change multiple times a day between sitting on a chair, standing and maybe sitting on a fitness ball or similar.
 * Use different stretch exercises multiple times a day. The effort needed is not big in the light of the gain.
+* Use an external keyboard that can be moved freely from the monitor. That allows you to position your body in the best possible way instead of being forced down to the monitor and screen.
+
+## Legs
+
+*Symptons*
+* Your shins hurt at night.
+* You are having troubles walking smoothly the first meters after you get up from your chair.
+
+*Possible solutions*
+* Make sure you don't keep your feet under your chair throughout the day. Keeping your knees in a position under 90 degrees in multiple hours prevents the blood from running freely.
+* Use a height adjustable table and switch between standing and sitting position multiple times a day. Remember, the best working position is always the next!
+* Use different stretch exercises multiple times a day. Making it a habit each morning and evening will drastically help after a few weeks.
