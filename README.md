@@ -29,10 +29,10 @@ If you have personal experiences that you think can help others, please create a
 
 *Possible solutions*
 * You forget to blink by focusing to much on the stuff you see on the monitor. Look out the window from time to time. You will feel you eyes being more relaxed (and you might experience new ideas and energy flowing to your brain as well).
-* You simply spent to much time looking at a monitor 50 cm away. Human eyes are not build for this distance. Try spending fewer hours working. After all your health are more important than work and money.
-* If your eyesight is already gotten worse, you might need to see an optician to check if you need glasses or your current glasses adjusted.
+* You simply spent to much time looking at a monitor 50 cm away. Human eyes are not build for this distance. Try spending fewer hours working. After all your health is more important than work and money.
+* If your eyesight has already gotten worse, you might need to see an optician to check if you need glasses or your current glasses adjusted.
 * Take a rest from your smartphone. It might not only be a problem with you computer monitor, but the combination between working by the computer monitor and then relaxing by surfing twitter leaves your eyes in a never-resting situation.
-* Blurred or distorted vision, typically in one eye, might be *central serous retinopathy*. Also called stress eye. See and eye doctor and take a vacation!
+* Blurred or distorted vision, typically in one eye, might be *central serous retinopathy*. Also called stress eye. See an eye doctor and take a vacation!
 
 ## Back
 
@@ -43,6 +43,13 @@ If you have personal experiences that you think can help others, please create a
 * You need to change working position. Change multiple times a day between sitting on a chair, standing and maybe sitting on a fitness ball or similar.
 * Use different stretch exercises multiple times a day. The effort needed is not big in the light of the gain.
 * Use an external keyboard that can be moved freely from the monitor. That allows you to position your body in the best possible way instead of being forced down to the monitor and screen.
+
+*Symptons*
+* The upper of your back hurts, because you are leaning softly over your desk to come closer to the monitor.
+
+*Possible solutions*
+* You are possibly compensating for bad eye sight by subconsciously moving closer to the monitor.
+* Your monitor position could be adjusted, so that you are looking slighty downwards.
 
 ## Legs
 
