@@ -24,11 +24,15 @@ If you have personal experiences that you think can help others, please create a
 * Your eyesight are becoming worse.
 * You need 1-2 seconds to refocus after removing your eyes from the monitor.
 * You feel an itching around your eyes and an urge to rub your eyes with your hands.
+* It is hard to focus or your vision gets blurred
+* You eyes dry out
 
 *Possible solutions*
 * You forget to blink by focusing to much on the stuff you see on the monitor. Look out the window from time to time. You will feel you eyes being more relaxed (and you might experience new ideas and energy flowing to your brain as well).
 * You simply spent to much time looking at a monitor 50 cm away. Human eyes are not build for this distance. Try spending fewer hours working. After all your health are more important than work and money.
 * If your eyesight is already gotten worse, you might need to see an optician to check if you need glasses or your current glasses adjusted.
+* Take a rest from your smartphone. It might not only be a problem with you computer monitor, but the combination between working by the computer monitor and then relaxing by surfing twitter leaves your eyes in a never-resting situation.
+* Blurred or distorted vision, typically in one eye, might be *central serous retinopathy*. Also called stress eye. See and eye doctor and take a vacation!
 
 ## Back
 
