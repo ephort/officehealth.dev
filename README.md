@@ -25,7 +25,7 @@ If you have personal experiences that you think can help others, please create a
 * You need 1-2 seconds to refocus after removing your eyes from the monitor.
 * You feel an itching around your eyes and an urge to rub your eyes with your hands.
 * It is hard to focus or your vision gets blurred
-* You eyes dry out
+* Your eyes dry out
 
 *Possible solutions*
 * You forget to blink by focusing to much on the stuff you see on the monitor. Look out the window from time to time. You will feel you eyes being more relaxed (and you might experience new ideas and energy flowing to your brain as well).
