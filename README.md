@@ -16,7 +16,7 @@ If you have personal experiences that you think can help others, please create a
 * In between writing on the keyboard you are not relaxing your fingers. They instead stay prepared and tense to be prepared for the next words/code to be written. Remove your hands from the keyboard in all the small pauses or focus on relaxing them.
 * Your arms have been in the 90 degrees angle for too long (maybe many years), thus your shoulders and arms are tense. You might not feel it, but try letting your arms hang along your body and relax as much as possible in your arms and shoulders. You will soon get a feeling that you shoulders can be much more relaxed than they usually are. Make an effort every day to obtain a more relaxed position in your shoulders.
 * When you lie down to sleep at night make an effort to relax your arms, as they can probably obtain a more relaxed position here as well.
-* Using an integrated keyboard in your laptop may not be a good idea. The keys have "soft press" style causing your fingers to never be allowed to rest apon the keyboard in between typing. An old fashioned keyboard with hard keys makes it possible for your fingers to better rest apon the keys.
+* Using an integrated keyboard in your laptop may not be a good idea. The keys have "soft press" style causing your fingers to never be allowed to rest upon the keyboard in between typing. An old fashioned keyboard with hard keys makes it possible for your fingers to better rest upon the keys.
 
 ## Eyes
 
