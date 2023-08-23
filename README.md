@@ -33,6 +33,7 @@ If you have personal experiences that you think can help others, please create a
 * If your eyesight has already gotten worse, you might need to see an optician to check if you need glasses or your current glasses adjusted.
 * Take a rest from your smartphone. It might not only be a problem with you computer monitor, but the combination between working by the computer monitor and then relaxing by surfing twitter leaves your eyes in a never-resting situation.
 * Blurred or distorted vision, typically in one eye, might be *central serous retinopathy*. Also called stress eye. See an eye doctor and take a vacation!
+* Monitors come in different qualities. Framerates, types of panels and color-schemes matter. For instance, the Dell Ultrasharp is gentle on the eyes.
 
 ## Back
 
